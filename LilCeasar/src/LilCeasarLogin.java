@@ -25,7 +25,7 @@ import javax.swing.JTextField;
 public class LilCeasarLogin extends JFrame {
 
 	public LilCeasarLogin() { 
- 
+  
 		super("LIL CEASAR LOGIN");
 		setSize(300, 300);
 		setLayout(new GridLayout(6, 2));
